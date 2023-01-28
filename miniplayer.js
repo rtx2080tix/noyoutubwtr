@@ -1,0 +1,1 @@
+document.querySelector('ytd-player[context="WEB_PLAYER_CONTEXT_CONFIG_ID_KEVLAR_CHANNEL_TRAILER"]').remove()
